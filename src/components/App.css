@@ -21,6 +21,11 @@ body {
   width: 350px;
 }
 
+h2:hover {
+  color: red;
+  cursor: pointer;
+}
+
 h1 {
   letter-spacing: 1px;
   margin: 0;
